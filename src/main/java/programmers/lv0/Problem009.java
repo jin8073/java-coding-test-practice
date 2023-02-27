@@ -1,5 +1,8 @@
 package programmers.lv0;
 
+/**
+ * 배열 두 배 만들기
+ * */
 public class Problem009 {
     public int[] solution(int[] numbers) {
         boolean validation = numbers.length >= 1 && numbers.length <= 1000;
