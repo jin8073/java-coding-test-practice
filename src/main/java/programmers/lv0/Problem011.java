@@ -12,15 +12,21 @@ public class Problem011 {
             answer[0] = numer1 * denom2 + numer2 * denom1;
             answer[1] = denom1 * denom2;
             int min = answer[0] < answer[1]? answer[0] : answer[1];
-            int gcd = 0;
-            for (int i=1; i <= min; i++) {
-                if (answer[0] % i == 0 && answer[1] % i == 0) {
-                    gcd = i;
-                }
-            }
+            int gcd = getGCD(answer[0], answer[1]);
             answer[0] /= gcd;
             answer[1] /= gcd;
         }
         return answer;
+    }
+
+    public int getGCD(int num1, int num2) {
+        int min = num1 < num2? num1 : num2;
+        int gcd = 0;
+        for (int i=1; i <= min; i++) {
+            if (num1 % i == 0 && num2 % i == 0) {
+                gcd = i;
+            }
+        }
+        return gcd;
     }
 }
