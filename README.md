@@ -16,3 +16,9 @@
 |[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[분수의 덧셈.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem011.java)|
 |[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)|[나이 출력.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem012.java)|
 |[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|[각도기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem013.java)|
+|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)|[짝수의 합.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem014.java)|
+|[배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|[배열의 평균값.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem015.java)|
+|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[양꼬치.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem016.java)|
+|[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|[배열 뒤집기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem017.java)|
+|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|[순서쌍의 개수.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem018.java)|
+|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[짝수 홀수 개수.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem019.java)|
