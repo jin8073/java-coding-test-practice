@@ -22,3 +22,6 @@
 |[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|[배열 뒤집기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem017.java)|
 |[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|[순서쌍의 개수.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem018.java)|
 |[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[짝수 홀수 개수.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem019.java)|
+|[피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|[피자 나눠 먹기 (3).java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem020.java)|
+|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|[중앙값 구하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem021.java)|
+|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|[문자열 뒤집기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem022.java)|
