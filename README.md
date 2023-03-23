@@ -26,3 +26,5 @@
 |[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|[중앙값 구하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem021.java)|
 |[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|[문자열 뒤집기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem022.java)|
 |[피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|[피자 나눠 먹기 (1).java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem023.java)|
+|[최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|[최댓값 만들기 (1).java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem024.java)|
+|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|[점의 위치 구하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem025.java)|
