@@ -28,3 +28,6 @@
 |[피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|[피자 나눠 먹기 (1).java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem023.java)|
 |[최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|[최댓값 만들기 (1).java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem024.java)|
 |[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|[점의 위치 구하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem025.java)|
+|[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|[배열 원소의 길이.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem026.java)|
+|[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|[아이스 아메리카노.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem027.java)|
+|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|[배열 자르기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem028.java)|
