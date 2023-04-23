@@ -31,3 +31,5 @@
 |[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|[배열 원소의 길이.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem026.java)|
 |[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|[아이스 아메리카노.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem027.java)|
 |[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|[배열 자르기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem028.java)|
+|[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|[특정 문자 제거하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem029.java)|
+|[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[옷가게 할인 받기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem030.java)|
