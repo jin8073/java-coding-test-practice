@@ -35,3 +35,5 @@
 |[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[옷가게 할인 받기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem030.java)|
 |[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|[문자 반복 출력하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem031.java)|
 |[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|[삼각형의 완성조건 (1).java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem032.java)|
+|[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|[배열의 유사도.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem033.java)|
+|[짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|[짝수는 싫어요.java](https://github.com/jin8073/java-coding-test-practice/blob/master/src/main/java/programmers/lv0/Problem034.java)|
