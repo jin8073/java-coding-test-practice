@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 양꼬치
  * */
-public class Problem016 {
+class Solution {
     public int solution(int n, int k) {
         int answer = 0;
         k -= n/10;
