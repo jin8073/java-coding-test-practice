@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 점의 위치 구하기
  * */
-public class Problem025 {
+class Solution {
     public int solution(int[] dot) {
         int answer = 0;
         answer = getAnswer(dot);
