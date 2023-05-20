@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 문자열 뒤집기
  * */
-public class Problem022 {
+class Solution {
     public String solution(String my_string) {
         String answer = "";
         char[] my_strings = my_string.toCharArray();
