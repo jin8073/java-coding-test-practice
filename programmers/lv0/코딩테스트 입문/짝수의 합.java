@@ -1,10 +1,8 @@
-package programmers.lv0;
-
 /** 짝수의 합
  * 매개변수로 정수 n이 주어짐(0 < n <= 1000)
  * n 이하의 짝수를 모두 더한 값을 return
  * */
-public class Problem014 {
+class Solution {
     public int solution(int n) {
         int answer = 0;
         if (checkValidation(n)) {
