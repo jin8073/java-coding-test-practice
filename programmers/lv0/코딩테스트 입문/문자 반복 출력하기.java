@@ -3,7 +3,7 @@ package programmers.lv0;
 /**
  * 문자 반복 출력하기
  * */
-public class Problem031 {
+public class Solution {
     public String solution(String my_string, int n) {
         String answer = "";
         for (int i = 0; i < my_string.length(); i++) {
