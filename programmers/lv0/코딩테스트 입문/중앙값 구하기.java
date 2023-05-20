@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 중앙값 구하기
  * */
-public class Problem021 {
+class Solution {
     public int solution(int[] array) {
         int answer = 0;
         answer = sortArray(array)[array.length/2];
