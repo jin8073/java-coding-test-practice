@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 나머지 구하기
  * */
-public class Problem010 {
+class Solution {
     public int solution(int num1, int num2) {
         boolean validation = (num1 > 0 && num1 <= 100) &&  (num2 > 0 && num2 <= 100) && (num1 > num2);
         int answer = -1;
