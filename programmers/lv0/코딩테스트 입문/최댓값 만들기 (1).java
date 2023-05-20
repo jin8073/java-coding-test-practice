@@ -1,5 +1,3 @@
-package programmers.lv0;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -7,7 +5,7 @@ import java.util.List;
 /**
  * 최댓값 만들기 (1)
  * */
-public class Problem024 {
+class Solution {
     public int solution(int[] numbers) {
         int answer = 0;
         int first = 0;
