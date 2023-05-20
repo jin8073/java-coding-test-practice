@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 중복된 숫자 개수
  * */
-public class Problem001 {
+class Solution {
     public int solution(int[] array, int n) {
         if (!checkArrayLength(array) || !checkArrayN(n)) {
             throw new IllegalArgumentException("잘못된 입력 값입니다.");
