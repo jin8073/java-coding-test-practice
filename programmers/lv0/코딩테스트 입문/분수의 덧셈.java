@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 분수의 덧셈
  * */
-public class Problem011 {
+class Solution {
     public int[] solution(int numer1, int denom1, int numer2, int denom2) {
         boolean validation = (numer1 > 0 && numer1 < 1000) && (numer2 > 0 && numer2 < 1000)
                 && (denom1 > 0 && denom1 < 1000) && (denom2 > 0 && denom2 < 1000);
