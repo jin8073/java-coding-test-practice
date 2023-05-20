@@ -1,9 +1,7 @@
-package programmers.lv0;
-
 /**
  * 배열 뒤집기
  * */
-public class Problem017 {
+class Solution {
     public int[] solution(int[] num_list) {
         int[] answer = new int[num_list.length];
         for (int i = num_list.length-1; i >= 0; i--) {
