@@ -33,6 +33,8 @@
 |[수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)|[수 조작하기 2.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%88%98%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0%202.java)|
 |[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)|[수열과 구간 쿼리 3.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%203.java)|
 |[수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)|[수열과 구간 쿼리 2.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%202.java)|
+|[수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)|[수열과 구간 쿼리 4.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%204.java)|
+|[배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)|[배열 만들기 2.java]()|
 
 ### Lv.0(코딩테스트 입문)
 |문제 출처|문제 풀이|
