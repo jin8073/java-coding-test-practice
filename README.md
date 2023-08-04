@@ -37,7 +37,7 @@
 |[배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)|[배열 만들기 2.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202.java)|
 |[카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920)|[카운트 업.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85.java)|
 |[콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919)|[콜라츠 수열 만들기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%88%98%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
-|[배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)|[배열 만들기 4.java]()|
+|[배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)|[배열 만들기 4.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%204.java)|
 
 ### Lv.0(코딩테스트 입문)
 |문제 출처|문제 풀이|
