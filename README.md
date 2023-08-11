@@ -72,7 +72,7 @@
 |[5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)|[5명씩.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/5%EB%AA%85%EC%94%A9.java)|
 |[할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)|[할 일 목록.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%ED%95%A0%20%EC%9D%BC%20%EB%AA%A9%EB%A1%9D.java)|
 |[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|[n보다 커질 때까지 더하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/n%EB%B3%B4%EB%8B%A4%20%EC%BB%A4%EC%A7%88%20%EB%95%8C%EA%B9%8C%EC%A7%80%20%EB%8D%94%ED%95%98%EA%B8%B0.java)|
-|[수열과 구간 쿼리 1]()|[수열과 구간 쿼리 1.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%201.java)|
+|[수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)|[수열과 구간 쿼리 1.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%201.java)|
 
 ### Lv.0(코딩테스트 입문)
 |문제 출처|문제 풀이|
