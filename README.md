@@ -123,6 +123,8 @@
 |[조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835)|[조건에 맞게 수열 변환하기 3.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%88%98%EC%97%B4%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%203.java)|
 |[l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834)|[l로 만들기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/l%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
 |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[특별한 이차원 배열 1.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%201.java)|
+|[정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)|[정수를 나선형으로 배치하기.java]()|
+|[특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)|[특별한 이차원 배열 2.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%202.java)|
 
 ### Lv.0(코딩테스트 입문)
 |문제 출처|문제 풀이|
