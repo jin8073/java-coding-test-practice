@@ -1,6 +1,7 @@
 # 코딩테스트 연습문제 풀이
 ## 프로그래머스
-### Lv.0(코딩 기초 트레이닝)
+<details>
+<summary>### Lv.0(코딩 기초 트레이닝)</summary>
 |문제 출처|문제 풀이|
 |--------|---------|
 |[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|[문자열 출력하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.java)|
@@ -127,6 +128,7 @@
 |[특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)|[특별한 이차원 배열 2.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%202.java)|
 |[정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)|[정사각형으로 만들기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
 |[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|[이차원 배열 대각선 순회하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%20%EB%8C%80%EA%B0%81%EC%84%A0%20%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0.java)|
+</details>
 
 ### Lv.0(코딩테스트 입문)
 |문제 출처|문제 풀이|
