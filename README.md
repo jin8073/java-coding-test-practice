@@ -134,7 +134,9 @@
 |[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|[이차원 배열 대각선 순회하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%20%EB%8C%80%EA%B0%81%EC%84%A0%20%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0.java)|
 </details>
 
-### Lv.0(코딩테스트 입문)
+<details>
+<summary>코딩테스트 입문</summary>
+  
 |문제 출처|문제 풀이|
 |--------|---------|
 |[중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)|[중복된 숫자 개수.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%A4%91%EB%B3%B5%EB%90%9C%20%EC%88%AB%EC%9E%90%20%EA%B0%9C%EC%88%98.java)|
@@ -199,3 +201,4 @@
 |[배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)|[배열 회전시키기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.java)|
 |[주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)|[주사위의 개수.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%20%EA%B0%9C%EC%88%98.java)|
 |[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)|[팩토리얼.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.java)|
+</details>
