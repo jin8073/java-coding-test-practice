@@ -1,7 +1,11 @@
 # 코딩테스트 연습문제 풀이
 ## 프로그래머스
+### Lv.0
 <details>
-<summary>### Lv.0(코딩 기초 트레이닝)</summary>
+<summary>코딩 기초 트레이닝</summary>
+  
+  ![코딩 기초 트레이닝 챌린지](https://github.com/jin8073/java-coding-test-practice/blob/master/image/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%20%EC%BA%98%EB%A6%B0%EB%8D%94.png)
+  
 |문제 출처|문제 풀이|
 |--------|---------|
 |[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|[문자열 출력하기.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.java)|
