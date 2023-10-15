@@ -227,4 +227,5 @@
 |[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|[저주의 숫자 3.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%A0%80%EC%A3%BC%EC%9D%98%20%EC%88%AB%EC%9E%90%203.java)|
 |[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[평행.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%ED%8F%89%ED%96%89.java)|
 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884#)|[치킨 쿠폰.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EC%B9%98%ED%82%A8%20%EC%BF%A0%ED%8F%B0.java)|
+|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[다음에 올 숫자.java](https://github.com/jin8073/java-coding-test-practice/blob/master/programmers/lv0/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8/%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90.java)|
 </details>
